@@ -2,7 +2,7 @@
 
 _My all projects, certifications and source code from freeCodeCamp. My profile link:_[https://www.freecodecamp.org/mamun746](https://www.freecodecamp.org/mamun746)
 
-# Responsive Web Design ([Certification](https://www.freecodecamp.org/certification/mamun746/responsive-web-design))
+# Responsive Web Design ([Certificate](https://www.freecodecamp.org/certification/mamun746/responsive-web-design))
 
 ---
 
