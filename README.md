@@ -25,3 +25,7 @@ _My all projects, certifications and source code from freeCodeCamp. My profile l
 ## 5. A Personal Portfolio Webpage
 
 ### [Code](https://github.com/Mamun746/fcc-portfolio) | [Project Source](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage) | [Live Project](https://fcc-portfolio-page.netlify.com/)
+
+# Responsive Web Design ([Certificate](https://www.freecodecamp.org/certification/mamun746/javascript-algorithms-and-data-structures))
+
+### [Code](https://github.com/Mamun746/fcc-JavaScript-Algorithms-and-Data-Structures) | [Source](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
