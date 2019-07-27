@@ -1,4 +1,4 @@
-# Heading 6freeCodeCamp Projects and Certification
+# freeCodeCamp Projects and Certification
 
 _My all projects, certifications and source code from freeCodeCamp. My profile link:_[https://www.freecodecamp.org/mamun746](https://www.freecodecamp.org/mamun746)
 
